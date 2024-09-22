@@ -1,6 +1,6 @@
 # Python Chat Application
 
-** Collaborated with Sofia Azam and Marian Sousan **
+**Collaborated with Sofia Azam and Marian Sousan**
 
 ## How it works
 This is a chat application to connect two devices and allows them to communicate by sending messages back and forth. The server and client both provide their usernames, and the IP address/port number they wish to communicate over. Then they can send messages to each other, one at a time, until one of them sends a message containing the exit keyword ('end') to terminate the program.
